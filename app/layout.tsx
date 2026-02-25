@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TargetMap",
-  description: "Dashboard for tracking threat actors and their targets",
+  title: "SATIP",
+  description: "Strategic Adversaries Threat Intelligence Platform",
 };
 
 export default function RootLayout({
