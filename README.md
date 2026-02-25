@@ -37,6 +37,8 @@ A self-hosted, offline-first **Strategic Adversaries Threat Intelligence Platfor
 - Country profile pages with full intel history and actor breakdown
 - Sector profile pages showing all events and contributing actors
 
+<img width="1960" height="1228" alt="1" src="https://github.com/user-attachments/assets/e3b9d925-f65a-4ec0-a466-c7c5829e4852" />
+
 ---
 
 ## 🛠️ Tech Stack
