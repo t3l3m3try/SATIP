@@ -1,6 +1,6 @@
-# 🛡️ CTI Dashboard — Global Threat Intelligence Map
+# 🛡️ SATIP — Strategic Adversaries Threat Intelligence Platform
 
-A self-hosted, offline-first **Cyber Threat Intelligence (CTI) dashboard** that ingests open-source threat reports, extracts structured intelligence with an LLM, and visualises the global threat landscape in real time.
+A self-hosted, offline-first **Strategic Adversaries Threat Intelligence Platform (SATIP)** that ingests open-source threat reports, extracts structured intelligence with an LLM, and visualises the global threat landscape in real time.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
@@ -63,8 +63,8 @@ A self-hosted, offline-first **Cyber Threat Intelligence (CTI) dashboard** that 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/cti-dashboard.git
-cd cti-dashboard
+git clone https://github.com/t3l3m3try/SATIP.git
+cd SATIP
 npm install
 ```
 
@@ -89,7 +89,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📁 Project Structure
 
 ```
-cti-dashboard/
+SATIP/
 ├── app/
 │   ├── page.tsx              # Main dashboard (map, stats, filters)
 │   ├── add/page.tsx          # Intelligence ingestion UI
