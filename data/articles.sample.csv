@@ -1,0 +1,2 @@
+date,threat_actor,attribution_country,targeted_countries,targeted_sectors,title,summary,risk_score,what,when,where,who,why,how,so_what,what_is_next,url
+2026-01-01,Sample Actor,US,"US,GB","Technology,Finance",Sample Incident Title,A sample threat report to demonstrate the schema.,50,Sample what,Sample when,Sample where,Sample who,Sample why,Sample how,Sample so what,Sample next steps,https://example.com
