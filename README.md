@@ -2,6 +2,8 @@
 
 A self-hosted, offline-first **Strategic Adversaries Threat Intelligence Platform (SATIP)** that ingests open-source threat reports, extracts structured intelligence with an LLM, and visualises the global threat landscape in real time.
 
+Reference: https://t3l3m3try.medium.com/satip-strategic-adversaries-threat-intelligence-platform-1c3f24c2d2c4 
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
