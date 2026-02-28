@@ -4,10 +4,15 @@ A self-hosted, offline-first **Strategic Adversaries Threat Intelligence Platfor
 
 Reference: https://t3l3m3try.medium.com/satip-strategic-adversaries-threat-intelligence-platform-1c3f24c2d2c4 
 
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss)
+
+
+<img width="1960" height="1228" alt="1" src="https://github.com/user-attachments/assets/e3b9d925-f65a-4ec0-a466-c7c5829e4852" />
 
 ---
 
@@ -38,8 +43,6 @@ Reference: https://t3l3m3try.medium.com/satip-strategic-adversaries-threat-intel
 ### 🌍 Country & Sector Pages
 - Country profile pages with full intel history and actor breakdown
 - Sector profile pages showing all events and contributing actors
-
-<img width="1960" height="1228" alt="1" src="https://github.com/user-attachments/assets/e3b9d925-f65a-4ec0-a466-c7c5829e4852" />
 
 ---
 
